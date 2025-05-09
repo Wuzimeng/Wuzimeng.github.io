@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student from School of Computer Science & Engineering, Beihang University, under the supervision of Prof. Yunhong Wang and Prof. Jiaxin Chen. 
+I am a second-year Ph.D. student from School of Computer Science and Engineering, Beihang University, under the supervision of Prof. Yunhong Wang and Prof. Jiaxin Chen. 
 
 My research explores the efficient training and inference of deep neural networks. Recently, I am focusing on the efficiency of vision-language models.
 
@@ -39,6 +39,20 @@ My research explores the efficient training and inference of deep neural network
 - We make the first attempt in investigating model pruning for person search, thus fascilitating the deployment on unmanned vehicles, mobile phones, etc. 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2023</div><img src='images/samp.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unifed Knowledge Maintenance Pruning and Progressive Recovery with Weight Recalling for Large Vision-Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/32923)
+
+**Zimeng Wu**, Jiaxin Chen, Yunhong Wang
+
+- We propose a novel pruning approach, dubbed UKMP, for large vision-language models. To the best of our knowledge, we make the frst attempt to explore unifed structured pruning for LVLMs. 
+</div>
+</div>
+
+
 <!-- 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 <!-- 
@@ -47,7 +61,7 @@ My research explores the efficient training and inference of deep neural network
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.09 - 2023.06 (now)*, Ph.D. Student, School of Computer Science & Engineering, Beihang University. 
+- *2023.09 - now*, Ph.D. Student, School of Computer Science and Engineering, Beihang University. 
 - *2019.09 - 2023.06*, Bachelor's Degree, Shenyuan Honors College, Beihang University. 
 
 
