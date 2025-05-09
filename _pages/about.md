@@ -41,7 +41,7 @@ My research explores the efficient training and inference of deep neural network
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/ukmp.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/ukmp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unifed Knowledge Maintenance Pruning and Progressive Recovery with Weight Recalling for Large Vision-Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/32923)
