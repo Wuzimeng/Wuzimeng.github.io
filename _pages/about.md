@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student from School of Computer Science and Engineering, Beihang University, under the supervision of Prof. Yunhong Wang and Prof. Jiaxin Chen. 
+I am a third-year Ph.D. student from School of Computer Science and Engineering, Beihang University, under the supervision of Prof. Yunhong Wang and Prof. Jiaxin Chen. 
 
 My research explores the efficient training and inference of deep neural networks. Recently, I am focusing on the efficiency of vision-language models.
 
@@ -28,17 +28,17 @@ My research explores the efficient training and inference of deep neural network
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2023</div><img src='images/samp.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/comp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SAMP: Sub-task Aware Model Pruning with Layer-Wise Channel Balancing for Person Search](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_17)
+[Collaborative Multi-Mode Pruning for Vision-Language Models](https://arxiv.org/abs/2604.02956)
 
-**Zimeng Wu**, Jiaxin Chen, Yunhong Wang
+**Zimeng Wu**, Yunhong Wang, Donghao Wang, Jiaxin Chen
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We make the first attempt in investigating model pruning for person search, thus fascilitating the deployment on unmanned vehicles, mobile phones, etc. 
+- We explore joint pruning of parameters and tokens for vision-language models, aiming to enable more effective performance preservation under high compression ratios. 
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/ukmp.png' alt="sym" width="100%"></div></div>
@@ -49,6 +49,20 @@ My research explores the efficient training and inference of deep neural network
 **Zimeng Wu**, Jiaxin Chen, Yunhong Wang
 
 - We propose a novel pruning approach, dubbed UKMP, for large vision-language models. To the best of our knowledge, we make the frst attempt to explore unifed structured pruning for LVLMs. 
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2023</div><img src='images/samp.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SAMP: Sub-task Aware Model Pruning with Layer-Wise Channel Balancing for Person Search](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_17)
+
+**Zimeng Wu**, Jiaxin Chen, Yunhong Wang
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We make the first attempt in investigating model pruning for person search, thus fascilitating the deployment on unmanned vehicles, mobile phones, etc. 
 </div>
 </div>
 
